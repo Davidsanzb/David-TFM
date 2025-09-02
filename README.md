@@ -13,10 +13,10 @@ Este proyecto corresponde al Trabajo de Fin de Máster (TFM) en Bioinformática 
 - **Preprocesamiento:** Eliminación de variables irrelevantes, escalado con StandardScaler y partición estratificada en entrenamiento (80%) y test (20%).
   
 - **Modelos de clasificación (10):**
-- Logistic Regression.
-- Support Vector Machines (SVM).
-- Decission Tree.
-- Random Forest.
+* Logistic Regression.
+* Support Vector Machines (SVM).
+* Decission Tree.
+* Random Forest.
 - Gradient Boosting.
 - KNN.
 - Naive Bayes.
