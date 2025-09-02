@@ -13,25 +13,25 @@ Este proyecto corresponde al Trabajo de Fin de Máster (TFM) en Bioinformática 
 - **Preprocesamiento:** Eliminación de variables irrelevantes, escalado con StandardScaler y partición estratificada en entrenamiento (80%) y test (20%).
   
 - **Modelos de clasificación (10):**
-- Logistic Regression.
-- Support Vector Machines (SVM).
-- Decission Tree.
-- Random Forest.
-- Gradient Boosting.
-- KNN.
-- Naive Bayes.
-- Multi-Layer Perceptron(MLP).
-- AdaBoost.
-- XGBoost.
+  - Logistic Regression.
+  - Support Vector Machines (SVM).
+  - Decission Tree.
+  - Random Forest.
+  - Gradient Boosting.
+  - KNN.
+  - Naive Bayes.
+  - Multi-Layer Perceptron(MLP).
+  - AdaBoost.
+  - XGBoost.
 
 - **Modelos de regresión (3):**
-- Linear Regression.
-- Ridge Regression.
-- Lasso Regression.
+  - Linear Regression.
+  - Ridge Regression.
+  - Lasso Regression.
 
 - **Redes neuronales (2):**
-- Redes neuronales de clasificación.
-- Redes neuronales de regresión.
+  - Redes neuronales de clasificación.
+  - Redes neuronales de regresión.
 
 ## Resultados
 
