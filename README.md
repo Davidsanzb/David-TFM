@@ -45,6 +45,6 @@ Se observa una carpeta denominada "Codigo_TFM", dentro de esta carpeta vamos a e
 
 1. **Clasificación** ---> Almacena el código empleada para la realización de los algoritmos de clasificación.
 2. **Regresión** ---> Almacena el código empleado para la realización de los algoritmos de regresión.
-3. **Redes Neuronales** ---> ALmacena el código para la realización de las redes neuronales.
+3. **Redes Neuronales** ---> Almacena el código empleado para la realización de las redes neuronales.
 4. **data** ---> Almacena la base de datos utilizada.
 
