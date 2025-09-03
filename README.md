@@ -1,6 +1,6 @@
 # Benchmarking de técnicas de Machine Learning y Deep Learning en Bioinformática Clínica
 
-Repositorio creado para almacena el código utilizado en el TFM.
+Repositorio creado para almacenar el código utilizado en el TFM.
 
 ## Descripción
 
